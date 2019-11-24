@@ -1,0 +1,8 @@
+size: 12
+color: blue
+wishlist: ["car", "pony"]
+todo:
+  dishes:
+    priority: high
+  laundry:
+    priority: low
