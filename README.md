@@ -84,4 +84,4 @@ Ran 3 tests in 0.000s
 OK
 
 
-This repo also got .travis.yml for Travis CI to execute the tests.
+This repo also got .travis.yml for Travis CI for integration with Travis.
