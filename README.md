@@ -10,7 +10,7 @@ to execute the script simply call the script with passing file name as argument.
 executing script::
 ------------------
 
-[root@localhost yamlmerger]# python yamlMerger.py -f /root/nokia/dir1/dir2/dir3/dir4/input.yaml
+[root@localhost yamlmerger]# python yamlMerger.py -f /root/yamlmerger/dir1/dir2/dir3/dir4/input.yaml
 
 Before Merging Yaml File::
 
